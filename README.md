@@ -35,13 +35,15 @@ Sumber daya diperoleh melalui **kabel USB** yang menghubungkan board Wemos D1 ke
 ## Visualisasi Dashboard (Grafana)
 Berikut tampilan dashboard Grafana untuk monitoring suhu dan kelembaban secara real-time:
 
-![Dashboard Grafana](images/grafana-dashboard.png)
+![alt text](https://github.com/widyaaa123/Visualisasi-Data-dan-Real-time-Monitoring-Suhu-dan-Kelembaban-pada-Ruangan-Berbasis-IoT/blob/main/Dashboard%20Grafana.png?raw=true)
 
 ---
 
 ## Rangkaian Alat IoT
 Berikut foto alat yang digunakan dalam proyek ini:
+
 ![alt text](https://github.com/widyaaa123/Visualisasi-Data-dan-Real-time-Monitoring-Suhu-dan-Kelembaban-pada-Ruangan-Berbasis-IoT/blob/main/alat.png?raw=true)
+
 ---
 
 ## Cara Menjalankan Proyek
