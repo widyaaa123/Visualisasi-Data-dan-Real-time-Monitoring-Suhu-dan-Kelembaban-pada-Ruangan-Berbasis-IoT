@@ -1,11 +1,11 @@
-# 🌡️ IoT Monitoring Suhu dan Kelembaban
+# IoT Monitoring Suhu dan Kelembaban
 
 Proyek ini bertujuan untuk memantau **suhu dan kelembaban secara real-time** menggunakan sensor DHT22 dan mikrokontroler **Wemos D1 ESP8266** yang terhubung ke **Grafana** untuk visualisasi data.  
 Data sensor disimpan ke dalam **PostgreSQL** melalui koneksi MQTT.
 
 ---
 
-## ⚙️ Komponen yang Digunakan
+## Komponen yang Digunakan
 - Wemos D1 ESP8266  
 - Sensor DHT22  
 - Kabel jumper  
@@ -16,7 +16,7 @@ Data sensor disimpan ke dalam **PostgreSQL** melalui koneksi MQTT.
 
 ---
 
-## 🔧 Instalasi dan Koneksi Hardware
+## Instalasi dan Koneksi Hardware
 
 Sensor **DHT22** dipasang di dalam **box project** untuk melindungi dari lingkungan luar, namun tetap dapat mengukur suhu dan kelembaban dengan akurat.
 
@@ -32,7 +32,7 @@ Sumber daya diperoleh melalui **kabel USB** yang menghubungkan board Wemos D1 ke
 
 ---
 
-## 🖼️ Visualisasi Dashboard (Grafana)
+## Visualisasi Dashboard (Grafana)
 Berikut tampilan dashboard Grafana untuk monitoring suhu dan kelembaban secara real-time:
 
 ![Dashboard Grafana](images/grafana-dashboard.png)
@@ -41,7 +41,7 @@ Berikut tampilan dashboard Grafana untuk monitoring suhu dan kelembaban secara r
 
 ## Rangkaian Alat IoT
 Berikut foto alat yang digunakan dalam proyek ini:
-
+![alt text](https://github.com/widyaaa123/Visualisasi-Data-dan-Real-time-Monitoring-Suhu-dan-Kelembaban-pada-Ruangan-Berbasis-IoT/blob/main/alat.png?raw=true)
 ---
 
 ## Cara Menjalankan Proyek
