@@ -1,7 +1,6 @@
 # IoT Monitoring Suhu dan Kelembaban
 
-Proyek ini bertujuan untuk memantau **suhu dan kelembaban secara real-time** menggunakan sensor DHT22 dan mikrokontroler **Wemos D1 ESP8266** yang terhubung ke **Grafana** untuk visualisasi data.  
-Data sensor disimpan ke dalam **PostgreSQL** melalui koneksi MQTT.
+Proyek ini bertujuan untuk memantau **suhu dan kelembaban secara real-time** menggunakan sensor DHT22 dan mikrokontroler **Wemos D1 ESP8266** yang terhubung ke **Grafana** untuk visualisasi data. Data sensor disimpan ke dalam **PostgreSQL** melalui koneksi MQTT.
 
 ---
 
